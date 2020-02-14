@@ -1,0 +1,60 @@
+body{
+text-align: left;
+font: Regular 28px/38px Open Sans;
+letter-spacing: 0;
+color: #2C2C2C;
+opacity: 1;
+bottom: 100000px;
+}
+body h2
+{
+text-align: center;
+font: Bold 56px/68px Montserrat;
+letter-spacing: 0;
+color: #2C2C2C;
+opacity: 1;
+}
+.button
+{
+top: 10%;
+left: 15%;
+width: 13%;
+height: 50px;
+background: #71C7EE 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+text-align: center;
+font: SemiBold 22px/30px Open Sans;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+}
+.navbar{
+	
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 100px;
+	  overflow: hidden;
+	  background-image: linear-gradient(blue,white); 
+ 
+}
+.nav-link{
+position: sticky;
+margin-right: 3%;
+text-align: center;
+font: SemiBold 22px/30px Open Sans;
+letter-spacing: 0;
+color: #ffffff;
+opacity: 1;
+
+}
+.local{
+	height: 50vh;
+	border: 1px solid white;
+}
+
+footer{
+	
+	margin-top:  1000px;
+}
